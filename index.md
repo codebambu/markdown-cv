@@ -1,91 +1,75 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Timothy de Jongh's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Timothy de Jongh
+Full Stack Web & Software Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="timothydejongh@gmail.com">timothydejongh@gmail.com</a>
+
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Freelance Web & Software Developer 
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Specialized in 
+- Developing Web Back-Ends, APIs, Microservices built using Laravel/Lumen/Express/Sinatra/Rails
+- Developing Web Front-Ends in Vue/Vuex/VanillaJS
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016 - 2018`
+__Hanzehogeschool Groningen__, Groningen
+- HBO ICT - Software Engineering
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2012 - 2016`
+__Frater Aurelio SBO__, Willemstad
+- Systeembeheer - Niveau 4
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+`Sep 2019 - Present`
+__Owner/Freelance Web & Software Developer__ - __de Jongh Software__, Groningen
+- Laravel and Lumen Web Back-Ends, APIs and Microservices
+- Node.js and Express APIs and Microservices
+- Flask and Python APIs and Microservices
+- Rails and Ruby APIs and Microservices
+- Vue/Vuex Web Front-Ends
+- Vanilla JavaScript Web Front-Ends
 
 
+`Aug 2017 - Sep 2019`
+__Web Developer__ - __Hotelchamp__, Groningen
+
+- Laravel and Lumen Web Back-Ends
+- Vanilla JavaScript Web Front-Ends
+- Node.js and Express APIs and Microservices
+- Flask and Python APIs and Microservices
+- MongoDB
+
+
+`May 2015 - Jul 2017`
+__Software Developer__ - __Dammers Group of Companies__, Willemstad
+
+- Laravel Web Back-Ends
+- jQuery and Vanilla JavaScript Front-Ends
+- Ruby DevOps
+
+
+`Oct 2014 - Mar 2015`
+__Junior Network Engineer__ - __eCommercePark__, Willemstad
+
+- Network Operations Monitoring
+- Linux Server Administration
+
+`Nov 2013 - Oct 2014`
+__Freelance Web Developer__, Willemstad
+
+- Joomla! Web Back-Ends
+- Custom Joomla! Plugins
+- jQuery Web Front-Ends
